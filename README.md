@@ -1,4 +1,4 @@
-# Additional Material & Data for "Rationing Social Contact During the COVID-19 Pandemic: Transmission Risk and Social Benefits of US Locations"
+# Additional material & data for "Rationing Social Contact during the COVID-19 Pandemic: Transmission Risk and Social Benefits of US Locations"
 
 ## Data 
 
